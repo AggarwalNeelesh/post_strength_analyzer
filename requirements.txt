@@ -11,3 +11,4 @@ openai>=1.2.4
 structlog>=23.2.0
 python-json-logger>=2.0.7
 aiohttp>=3.8.0 
+redis>=4.6.0
